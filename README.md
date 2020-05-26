@@ -1,4 +1,6 @@
 # guess-app
+
 Mobile Game using React-NAtive
 
-To run: yarn start
+To install: yarn install
+To Run: yarn run
